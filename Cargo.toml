@@ -1,6 +1,6 @@
 [package]
 name = "tauri-plugin-sqlite"
-version = "0.1.0"
+version = "0.2.0"
 authors = [ "lzdyes" ]
 description = "A Tauri plugin for interface to SQLite"
 repository = "https://github.com/lzdyes/tauri-plugin-sqlite"
