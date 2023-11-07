@@ -1,9 +1,9 @@
 [package]
-name = "tauri-plugin-sqlite"
+name = "tauri-plugin-sqlite-drizzle"
 version = "0.2.0"
 authors = [ "lzdyes" ]
-description = "A Tauri plugin for interface to SQLite"
-repository = "https://github.com/lzdyes/tauri-plugin-sqlite"
+description = "A Tauri plugin for interface to SQLite modify for drizzle"
+repository = "https://github.com/jstbyte/tauri-plugin-sqlite-drizzle.git"
 edition = "2021"
 rust-version = "1.57"
 exclude = ["/examples", "/webview-dist", "/webview-src", "node_modules"]
